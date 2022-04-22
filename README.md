@@ -1,2 +1,2 @@
 # nadaimportate
-es una prueba de inicializacion
+Las vacas no vuelan.
